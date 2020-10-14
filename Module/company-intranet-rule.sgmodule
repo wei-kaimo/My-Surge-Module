@@ -1,0 +1,6 @@
+#!name=company-intranet-rule
+#!desc=公司内策略覆盖
+#!system=mac
+
+[Rule]
+PROCESS-NAME,/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking,DIRECT
