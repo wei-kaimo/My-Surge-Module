@@ -4,4 +4,3 @@
 
 [Rule]
 DOMAIN-KEYWORD,chinamobile,DIRECT
-PROCESS-NAME,/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking,DIRECT
