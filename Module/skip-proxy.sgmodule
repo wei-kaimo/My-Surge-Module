@@ -1,0 +1,6 @@
+#!name=company-intranet-rule
+#!desc=公司内策略覆盖
+#!system=mac
+
+[General]
+skip-proxy = sequoia.apple.com
