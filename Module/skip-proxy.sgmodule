@@ -1,0 +1,7 @@
+
+#!name=skip-proxy
+#!desc=绕过配置
+#!system=mac
+
+[General]
+skip-proxy = sequoia.apple.com
