@@ -1,6 +1,5 @@
-#!name=company-intranet-rule
-#!desc=公司内策略覆盖
-#!system=mac
+#!name=skip-proxy.sgmodule
+#!desc=绕过代理策略
 
 [General]
 skip-proxy = sequoia.apple.com
