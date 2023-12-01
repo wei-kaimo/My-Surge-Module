@@ -1,0 +1,6 @@
+# NAME: iwhalecloud
+DOMAIN-SUFFIX,ssodr.iwhalecloud.com
+DOMAIN-SUFFIX,zmp.iwhalecloud.com
+DOMAIN-KEYWORD,iwhalecloud
+IP-CIDR,10.10.193.0/24,no-resolve
+IP-CIDR,10.45.136.0/24,no-resolve
