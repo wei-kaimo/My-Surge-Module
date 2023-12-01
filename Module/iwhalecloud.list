@@ -2,5 +2,12 @@
 DOMAIN-SUFFIX,ssodr.iwhalecloud.com
 DOMAIN-SUFFIX,zmp.iwhalecloud.com
 DOMAIN-KEYWORD,iwhalecloud
+# 广研IP段
+IP-CIDR,10.45.0.0/16,no-resolve
+# 采控项目部署地址
 IP-CIDR,10.10.193.0/24,no-resolve
+# 工位地址段
 IP-CIDR,10.45.136.0/24,no-resolve
+# 采控项目数据库部署地址
+IP-CIDR,10.45.82.0/24,no-resolve
+IP-CIDR,10.0.0.0/8,no-resolve
