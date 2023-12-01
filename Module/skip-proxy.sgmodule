@@ -4,4 +4,4 @@
 #!system=mac
 
 [General]
-skip-proxy = sequoia.apple.com
+skip-proxy = *iwhalecloud*
