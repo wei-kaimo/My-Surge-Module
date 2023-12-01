@@ -1,7 +1,6 @@
-
 #!name=skip-proxy
 #!desc=绕过的ip或域名
 #!system=mac
 
 [General]
-skip-proxy = *iwhalecloud*
+skip-proxy = *iwhalecloud*, 10.10.193.24, 10.45.136.0/24
