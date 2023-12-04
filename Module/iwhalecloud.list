@@ -10,4 +10,8 @@ IP-CIDR,10.10.193.0/24,no-resolve
 IP-CIDR,10.45.136.0/24,no-resolve
 # 采控项目数据库部署地址
 IP-CIDR,10.45.82.0/24,no-resolve
+#采控项目maven仓库地址
+IP-CIDR,10.45.47.0/24,no-resolve
+IP-CIDR,172.16.22.0/24,no-resolve
+#保底地址
 IP-CIDR,10.0.0.0/8,no-resolve
