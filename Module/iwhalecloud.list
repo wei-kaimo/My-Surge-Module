@@ -15,3 +15,5 @@ IP-CIDR,10.45.47.0/24,no-resolve
 IP-CIDR,172.16.22.0/24,no-resolve
 #保底地址
 IP-CIDR,10.0.0.0/8,no-resolve
+# 多云FTP服务器
+IP-CIDR,172.16.0.0/16,no-resolve
