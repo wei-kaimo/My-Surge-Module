@@ -2,6 +2,9 @@
 DOMAIN-SUFFIX,ssodr.iwhalecloud.com
 DOMAIN-SUFFIX,zmp.iwhalecloud.com
 DOMAIN-KEYWORD,iwhalecloud
+# NAME: codingplus
+DOMAIN-SUFFIX,codingplus
+DOMAIN-KEYWORD,codingplus
 # 广研IP段
 IP-CIDR,10.45.0.0/16,no-resolve
 # 采控项目部署地址
