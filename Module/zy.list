@@ -1,6 +1,7 @@
 # NAME: zy
 DOMAIN-SUFFIX,gitlab.p.it
 DOMAIN-SUFFIX,jx-kuboard.zy.com
+DOMAIN-SUFFIX,eip.beststudy.com
 DOMAIN-KEYWORD,zy
 # 广研IP段
 IP-CIDR,10.45.0.0/16,no-resolve
